@@ -1,4 +1,4 @@
-# knowledge_graph_resources
+# Report
 1. [将门的关于知识图谱的直播报告](https://mp.weixin.qq.com/s?__biz=MzAxMzc2NDAxOQ==&mid=502876225&idx=1&sn=25894a894cc2c58214ddde13e0a8ef93&chksm=03907c9d34e7f58b07c3ee360c3cfb52aa78721a0aa619aee0370ae821028c04951769c1b8c8&mpshare=1&scene=1&srcid=0424OUSwLOi0TCnmLMrZOhtC#rd)  
     1. 鲍捷 文因互联CEO 主题：知识管理和语义搜索的哲学思考  
     2. 刘知远 清华大学计算机系助理教授 主题： 表示学习与知识获取  
