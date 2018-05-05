@@ -31,10 +31,10 @@
     9. Natural Language Question Answering OverKnowledge Graph—A Data-Driven Approach —— 邹磊 (清华大学)  
     [PPT下载连接](https://pan.baidu.com/s/1SWIVETSAx_5ynilT9RfEyA)  提取码： 957j  
 4. 2016 知识图谱与问答系统前沿技术研讨会暨清华大学“计算未来”博士生论坛  
-    1. 林德康（Singulariti联合创始人，前Google高级科学家）From Search Engine to Answer Engine  
+    1. 林德康（Singulariti联合创始人，前Google高级科学家）From Search Engine to Answer Engine   
     2. 韩先培（中科院软件所）面向Web文本的语义关系抽取 (无PPT)  
-    3. 鲍捷（文因互联创始人）降低知识图谱的构造成本  
-    4. 刘康（中科院自动化所）基于深度学习的知识库问答   
+    3. 鲍捷（文因互联创始人）降低知识图谱的构造成本  
+    4. 刘康（中科院自动化所）基于深度学习的知识库问答  
     [PPT下载](https://pan.baidu.com/s/1U6rm7MIWL6cgXcR-l564dA) 提取码： 6gsb  
 
 待更...  
