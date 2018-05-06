@@ -21,20 +21,20 @@
     [PPT下载地址](https://pan.baidu.com/s/1DouKcwGs0_POnL3d1OXh4w) 提取码: r0wk  
 3. 2015 知识图谱研究青年学者研讨会 (清华大学)   
     1. 面向知识图谱的信息抽取技术——韩先培(中科院)  
-    2. 常识知识在结构化知识库构建中的应用——冯岩松 （清华大学)  
-    3. 浅谈逻辑规则在知识图谱表示学习中的应用——王泉 （中科院)   
+    2. 常识知识在结构化知识库构建中的应用——冯岩松 （清华大学)  
+    3. 浅谈逻辑规则在知识图谱表示学习中的应用——王泉 （中科院)   
     4. 大规模知识图谱表示学习——刘知远(清华大学自然语言处理)  
     5. 知识图谱中推理技术及工具介绍——漆佳林  
     6. 多语言知识图谱中的知识链接——王志春  
     7. Publishing and Consuming Knowledge Graphs in Vertical Sectors——王昊奋   
-    8. 知识库问答的问题与挑战——刘康  
-    9. Natural Language Question Answering OverKnowledge Graph—A Data-Driven Approach —— 邹磊 (清华大学)  
+    8. 知识库问答的问题与挑战——刘康  
+    9. Natural Language Question Answering OverKnowledge Graph—A Data-Driven Approach —— 邹磊 (清华大学)  
     [PPT下载连接](https://pan.baidu.com/s/1SWIVETSAx_5ynilT9RfEyA)  提取码： 957j  
 4. 2016 知识图谱与问答系统前沿技术研讨会暨清华大学“计算未来”博士生论坛  
-    1. 林德康（Singulariti联合创始人，前Google高级科学家）From Search Engine to Answer Engine   
-    2. 韩先培（中科院软件所）面向Web文本的语义关系抽取 (无PPT)  
-    3. 鲍捷（文因互联创始人）降低知识图谱的构造成本  
-    4. 刘康（中科院自动化所）基于深度学习的知识库问答  
+    1. 林德康（Singulariti联合创始人，前Google高级科学家）From Search Engine to Answer Engine   
+    2. 韩先培（中科院软件所）面向Web文本的语义关系抽取 (无PPT)  
+    3. 鲍捷（文因互联创始人）降低知识图谱的构造成本  
+    4. 刘康（中科院自动化所）基于深度学习的知识库问答  
     [PPT下载](https://pan.baidu.com/s/1U6rm7MIWL6cgXcR-l564dA) 提取码： 6gsb  
 5. [精益知识图谱方法论 （Lean KG ） —— 鲍捷](http://blog.memect.cn/wp-content/uploads/2016/09/2016-09-19_ccks.pdf)    
 
