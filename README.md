@@ -37,6 +37,6 @@
     4. 刘康（中科院自动化所）基于深度学习的知识库问答  
     [PPT下载](https://pan.baidu.com/s/1U6rm7MIWL6cgXcR-l564dA) 提取码： 6gsb  
 5. [精益知识图谱方法论 （Lean KG ） —— 鲍捷](http://blog.memect.cn/wp-content/uploads/2016/09/2016-09-19_ccks.pdf)    
-
+6. [Utilizing Knowledge Graphs in Text-centric Information Retrieval (SIGIR2018 tutorial)](https://github.com/laura-dietz/tutorial-utilizing-kg)
 
 待更...   
